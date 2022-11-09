@@ -6,5 +6,5 @@ made for learning javascript dom manipulations
 * users can select answeres
 * result page will display correct answers count , wrong answer count & total score
 
-# live demo link of the simple quiz application is below checkitout #
-()
+## live demo link of the simple quiz application is below checkitout ##
+(https://krishnadev7.github.io/javascript-quiz/)
